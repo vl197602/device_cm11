@@ -55,7 +55,7 @@ BOARD_HAVE_HTC_CSDCLIENT := true
 # Bluetooth
 BOARD_HAVE_BLUETOOTH_BCM := true
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/htc/k2_ul/bluetooth
-BOARD_BLUEDROID_VENDOR_CONF := device/htc/totemc2/bluetooth/libbt_vndcfg.txt
+BOARD_BLUEDROID_VENDOR_CONF := device/htc/k2_ul/bluetooth/libbt_vndcfg.txt
 BOARD_BLUETOOTH_USES_HCIATTACH_PROPERTY := false
 
 # Camera
